@@ -1,5 +1,6 @@
 # Supermarket-App
 Supermarket App for store products and sell it by using the phone Scanner and have a daily and monthly reports of the all receipts
+
 1- add product each product has quantity and price and name and id . id is the barcode of each product that is scanned by phone scanner 
 each field of product can be edited . each product can be deleted from the products list.
 
