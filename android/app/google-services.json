@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508821310932",
+    "project_id": "supermarket-d17ff",
+    "storage_bucket": "supermarket-d17ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508821310932:android:7d1e1464b1f449e2e91a41",
+        "android_client_info": {
+          "package_name": "com.example.supermarkett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508821310932-rifeal0pminpuopbhveqqrrukjvg1f78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supermarkett",
+            "certificate_hash": "8c579efccea40cceca482ba03f5b13004027981d"
+          }
+        },
+        {
+          "client_id": "508821310932-45b0030qgt2oepfp1e1i1tebr58i15m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagUBbXNT79pmf8GqNZeUJj8U7xgnUKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508821310932-45b0030qgt2oepfp1e1i1tebr58i15m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
