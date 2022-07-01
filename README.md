@@ -9,3 +9,6 @@ each field of product can be edited . each product can be deleted from the produ
 3- Receipt Field : is for selling the products and create a receipt can add product by scanning it's barcode and can change the quantity of the products by scanning it's barcode again or by change in the quantity manually then after checkout the receipt can be saved in the database.
 
 4- daily or monthly reports : reports have the all receipts that saved in the device can choose a month and see the total price of all receipts and can choose day to see it's total price and can choose a specific receipt to see it's content from products and quantity of product and the total price of it.
+
+https://user-images.githubusercontent.com/63169818/176944921-51f78682-3b98-40e3-9f35-b642f744ae53.mp4
+
